@@ -1,7 +1,5 @@
 ## Beep Beep
-
-- My name is Kevin
-- I'm a high school senior intrested in both Data Science and Cybersecurity
+My name is Kevin! I'm a high school senior intrested in both Data Science and Cybersecurity
 
 - I'm currently working on integrating Post-Quatumn Cryptography on hyperconstrained IoT devices and a Cryptography LLM MCP
 - I recently built an AI model using a Vision Transformer (ViT) to detect cancer subtypes from histopathology images, incorporating 5-fold stratified cross-validation, per-class performance metrics, and pretrained weights for increased accuracy.
