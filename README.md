@@ -1,9 +1,7 @@
-## Beep Beep
-I go by Kevin! I'm a high school senior intrested in both Data Science and Cybersecurity
+I'm a high school senior doing both Data Science and Cybersecurity
 
-- I'm currently working on integrating Post-Quatumn Cryptography on hyperconstrained IoT devices and a Cryptography LLM MCP
-- I recently built an AI model using a Vision Transformer (ViT) to detect cancer subtypes from histopathology images, incorporating 5-fold stratified cross-validation, per-class performance metrics, and pretrained weights for increased accuracy.
-- If you have any questions or are looking to collaborate please feel free to reach out at dukevin30@gmail.com
+- I'm currently working on web3 development and Post Quatumn Cryptography
+dukevin30@gmail.com
 <!--
 **qyncist/qyncist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
