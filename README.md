@@ -1,7 +1,8 @@
 I'm a high school senior doing both Data Science and Cybersecurity
 
 - I'm currently working on web3 development and Post Quatumn Cryptography
-dukevin30@gmail.com
+  
+- dukevin30@gmail.com
 <!--
 **qyncist/qyncist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
